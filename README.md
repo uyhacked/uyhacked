@@ -33,16 +33,16 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Uyhacked)](https://github.com/uyhacked/uyhacked.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=uyhacked)](https://github.com/uyhacked/uyhacked.github.io)
 <br><br><br>
 
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=Uyhacked&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Uyhacked&show_icons=true&theme=vue)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=uyhacked&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyahcked&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyahacked&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyahcked&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uyahacked&layout=compact&langs_count=6)
 
 
 <!--
