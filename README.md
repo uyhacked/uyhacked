@@ -1,18 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Uyhacked!
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## I'm Cyber Security Research - uyhacked
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+公众号：菜鸟信安笔记
 
-### **社交主页：**
+QQ: 2160505284
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+blog：https://blog.csdn.net/weixin_53343630?type=blog
 
+## 😄About Me
+😈A Script Boy. I want to hack the world -> JUST DO IT！
 
--   <a href="https://www.uyghur.eu.org/"><code>
-<img height="20" width="50" src="https://www.uyghur.eu.org/usr/themes/Cuckoo/assets/images/favicon.ico">
-</code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+- 💖 Favorite: Hacker, Exercise, Music
+
+- 💎 Team: HashRun Security Team.
+
+web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测试
 
 ### **技术栈:**
 
