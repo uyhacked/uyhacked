@@ -41,8 +41,9 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 [![](https://activity-graph.herokuapp.com/graph?username=Uyhacked&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=uyhacked&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyahcked&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uyahacked&layout=compact&langs_count=6)
+## Stats
+![uyhacked github stats](https://github-readme-stats.vercel.app/api?username=uyhacked&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyhacked&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
