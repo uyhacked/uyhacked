@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Uyhacked!
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## I'm Cyber Security Research - uyhacked
+## I'm Cyber Security Research
 
 公众号：菜鸟信安笔记
 
