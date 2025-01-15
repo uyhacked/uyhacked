@@ -31,7 +31,7 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=uyhacked)](https://github.com/uyhacked/uyhacked.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=uyhacked)](https://uyhacked.github.io/)
 <br><br><br>
 
 
