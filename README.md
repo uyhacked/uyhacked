@@ -42,10 +42,6 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senzee1984&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=senzee1984&theme=dark&hide_border=true"/>
-</p>
 <!--
 **uyhacked/uyhacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
