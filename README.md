@@ -7,6 +7,8 @@
 
 blog：https://blog.csdn.net/weixin_53343630?type=blog
 
+certification:oscp
+
 ## 😄About Me
 😈A Script Boy. I want to hack the world -> JUST DO IT！
 
