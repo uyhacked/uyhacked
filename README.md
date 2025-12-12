@@ -29,19 +29,11 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 <a href="https://go.dev/"><code><img height="20" src="https://raw.githubusercontent.com/Minori-ty/Minori-ty/main/images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://raw.githubusercontent.com/Minori-ty/Minori-ty/main/images/docker.png"></code></a>
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=uyhacked&repo=uyhacked.github.io)](https://github.com/uyhacked/uyhacked.github.io)
-<br><br><br>
-
 ## 🌐 Connect with me
-
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/uyhacked)
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/uyhacked/)
 
 ## 📊 GitHub Stats
-
-
 <p align="center">
   <a href="https://github.com/uyhacked">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=senzee1984&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
