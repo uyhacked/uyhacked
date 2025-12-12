@@ -34,14 +34,26 @@ web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测�
 [![](https://github-readme-stats.vercel.app/api/pin/?username=uyhacked&repo=uyhacked.github.io)](https://github.com/uyhacked/uyhacked.github.io)
 <br><br><br>
 
+## 🌐 Connect with me
 
-## Stats
-![uyhacked github stats](https://github-readme-stats.vercel.app/api?username=uyhacked&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uyhacked&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/uyhacked)
+[![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/uyhacked/)
 
-## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/Johnson666/count.svg)
+## 📊 GitHub Stats
 
+
+<p align="center">
+  <a href="https://github.com/uyhacked">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=senzee1984&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/uyhacked">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senzee1984&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=senzee1984&theme=dark&hide_border=true"/>
+</p>
 <!--
 **uyhacked/uyhacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
