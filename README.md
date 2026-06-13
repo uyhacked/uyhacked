@@ -3,7 +3,6 @@
 
 ## I'm Cyber Security Research
 
-公众号：菜鸟信安笔记
 
 blog：https://blog.csdn.net/weixin_53343630?type=blog
 
