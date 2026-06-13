@@ -14,8 +14,6 @@ certification:oscp
 
 - 💖 Favorite: Hacker, Exercise, Music
 
-- 💎 Team: HashRun Security Team.
-
 web安全 | 云安全 | app与小程序安全 | 隐私合规安全 | 渗透测试
 
 ### **技术栈:**
